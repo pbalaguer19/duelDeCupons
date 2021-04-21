@@ -164,7 +164,9 @@ iframe {
   justify-content: space-between;
   align-items: center;
 
-  padding: 90px 130px 88px 148px;
+  margin-bottom: 30px;
+
+  padding: 30px 130px 30px 148px;
 }
 
 /*------------------------------------------------------------------
@@ -191,7 +193,17 @@ iframe {
   color: #333333;
   line-height: 1.2;
   text-align: center;
-  padding-bottom: 44px;
+  padding-bottom: 30px;
+}
+
+.contact1-form-price {
+  display: block;
+  font-family: Montserrat-ExtraBold;
+  font-size: 20px;
+  color: #009bff;
+  line-height: 1.2;
+  text-align: center;
+  padding-bottom: 10px;
 }
 
 input.input1 {
@@ -221,7 +233,6 @@ textarea.input1 + .shadow-input1 {
 }
 
 .input1 {
-  display: block;
   width: 100%;
   background: #e6e6e6;
   font-family: Montserrat-Bold;
@@ -290,6 +301,33 @@ textarea.input1 + .shadow-input1 {
   justify-content: center;
   align-items: center;
   padding: 0 25px;
+  margin-bottom: 10px;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.contact1-form-btn2 {
+  min-width: 193px;
+  height: 50px;
+  border-radius: 25px;
+  background: #72bae1;
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 25px;
+  margin-bottom: 10px;
+  margin-left: 30px;
 
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -451,4 +489,10 @@ textarea.input1 + .shadow-input1 {
 
   padding: 50px;
   padding-bottom: 10px;
+}
+
+.formulari{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
