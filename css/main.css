@@ -435,3 +435,20 @@ textarea.input1 + .shadow-input1 {
     opacity: 1;
   }
 }
+
+.container-heading{
+  margin-bottom: 30px;
+
+  width: 1163px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  padding: 50px;
+  padding-bottom: 10px;
+}
