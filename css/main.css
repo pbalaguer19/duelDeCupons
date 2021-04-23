@@ -335,6 +335,30 @@ textarea.input1 + .shadow-input1 {
   transition: all 0.4s;
 }
 
+.contact1-form-btn-update {
+  min-width: 100px;
+  height: 40px;
+  border-radius: 25px;
+  border: #e1d472 solid 1px;
+  font-family: Montserrat-Bold;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #e1d472;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  padding: 0 25px;
+  margin-left: 20px;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
 .contact1-form-btn i {
   margin-left: 7px;
 
@@ -369,6 +393,14 @@ textarea.input1 + .shadow-input1 {
 
   .contact1-form {
     width: 44%;
+  }
+
+  .contact1-form-btn2 {
+    margin-left: 0px;
+  }
+
+  .contact1-form-btn-update {
+    margin-left: 0px;
   }
 }
 
