@@ -1,7 +1,7 @@
 # Duel de Cupons
 
 - Autor: [Pau Balaguer](https://twitter.com/pbalaguer19)
-- [Ves a l'aplicatiu Aplicatiu]((https://pbalaguer19.github.io/duelDeCupons/))
+- [Ves a l'aplicatiu Aplicatiu](https://pbalaguer19.github.io/duelDeCupons/)
 
 ## Descripció
 Aquest aplicatiu està pensat per a treballar els percentatges a les classes de matemàtiques de l'Educació Secundaria Obligatoria. 
